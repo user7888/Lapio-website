@@ -1,23 +1,31 @@
-p {
-    color: darkred;
-}
 
 h1 {
     color: blue;
+    color: #333;
 }
 
 h2 {
-    color: darkred
+    color: #333;
 }
 
 h4 {
-    color: darkred
+    color: #333;
+
 }
 
 .lista {
-    color: pink;
+    color: #333;
 }
 
 #jatkuu {
-    color: red
+    color: #333;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: #555;
 }
