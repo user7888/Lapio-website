@@ -1,0 +1,25 @@
+
+.ens {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+
+.toin {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    left: 15rem;
+    bottom: 7.3rem;
+    position: relative;
+}
+
+.kolm {
+    width: 200px;
+    height: 100px;
+    background-color: green;
+    left: 30rem;
+    bottom: 14.5rem;
+    position: relative;
+
+}
