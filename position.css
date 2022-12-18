@@ -1,8 +1,10 @@
-
 .ens {
     width: 200px;
     height: 100px;
     background-color: red;
+    border-style: solid;
+    border-color: green;
+    border-width: 10px;
 }
 
 .toin {
@@ -12,6 +14,9 @@
     left: 15rem;
     bottom: 7.3rem;
     position: relative;
+    border-style: solid;
+    border-color: red;
+    border-width: 10px;
 }
 
 .kolm {
@@ -21,5 +26,14 @@
     left: 30rem;
     bottom: 14.5rem;
     position: relative;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 10px;
+}
 
+p {
+    padding-top: 12%;
+    padding-left: 15%;
+    text-transform: uppercase;
+    color: blue;
 }
